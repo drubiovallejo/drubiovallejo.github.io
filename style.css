@@ -1,0 +1,96 @@
+
+
+
+body{
+  background-color: 
+      ;
+  
+}
+
+.nametitle{
+  font-family: times, Times New Roman, times-roman, georgia, serif;
+ 	  letter-spacing: -1px;
+		color: #444;
+  margin-left: 8%;
+  margin-top: 5%;
+  
+}
+
+.AboutTitle {
+  margin-top:5%;
+    margin-left: 8.5%;
+    margin-right: auto;
+    width: 6em
+      
+    letter-spacing: -1px;
+		color: #444;
+}
+
+
+.centeredTitle {
+    margin-left: 8.5%;
+    margin-right: auto;
+  margin-top: .75cm;
+    width: 6em
+      
+    letter-spacing: -1px;
+		color: #444;
+}
+
+
+.presentationsTitle {
+
+    margin-left: 8.5%;
+    margin-right: auto;
+    margin-top: 1cm;
+    width: 6em
+      
+    letter-spacing: -1px;
+		color: #444;
+
+}
+
+
+
+.tabbedText{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+p{ 
+  margin-left: 10%;
+  
+}
+
+.centeredTable{
+  margin-left: 3.5cm;
+ margin-top: -.5cm;
+  border-spacing: 10px;
+ }
+
+
+
+
+
+.rightImage {
+  margin-top: -10%;
+   float:right;
+  margin-right: 2%;
+}
+
+.rightmostImage{
+  margin-top: -10%;
+  float:right;
+  margin-right: 15%;
+}
+
+
+.someEmptyRoom{
+
+   margin-bottom: 1%;
+
+}
+
+
+ 
