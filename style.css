@@ -80,6 +80,10 @@ ul{
 	margin-left: 10%;
 }
 
+li{
+	color: #444;	
+}
+
 .centeredTable{
   margin-left: 3.5cm;
  margin-top: -.5cm;
