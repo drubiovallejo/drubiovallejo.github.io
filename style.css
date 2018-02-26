@@ -30,7 +30,7 @@ body{
 .centeredTitle {
     margin-left: 8.5%;
     margin-right: auto;
-  margin-top: .75cm;
+    margin-top: .75cm;
     width: 6em
       
     letter-spacing: -1px;
@@ -38,9 +38,9 @@ body{
 }
 
 .projectTitle {
-    margin-left: 10%;
+    margin-left: 6%;
     margin-right: auto;
-  margin-top: .75cm;
+    margin-top: .75cm;
     width: 6em
       
     letter-spacing: -1px;
