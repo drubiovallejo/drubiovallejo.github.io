@@ -37,6 +37,16 @@ body{
 		color: #444;
 }
 
+.projectTitle {
+    margin-left: 10%;
+    margin-right: auto;
+  margin-top: .75cm;
+    width: 6em
+      
+    letter-spacing: -1px;
+		color: #444;
+}
+
 
 .presentationsTitle {
 
