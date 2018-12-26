@@ -79,8 +79,13 @@ p{
 b{ color: #444;
 }
 
-ul{
+/*ul{
 	margin-left: 10%;
+}*/
+
+ul, li{
+margin:0;
+padding:0 0 0 15px;    
 }
 
 
