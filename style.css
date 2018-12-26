@@ -100,7 +100,9 @@ ul{
 
 .column{
     float: left;
-    margin: 0 70px 0 0;
+    margin-left: 8.5%;
+    margin-right: auto;
+    /*margin: 0 70px 0 0;*/
 }
 
 
