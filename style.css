@@ -91,16 +91,16 @@ ul{
  }
 
 
-
-
-
 .rightImage {
   margin-top: -10%;
    float:right;
   margin-right: 13%;
 }
 
-
+.column{
+    float: left;
+    margin: 0 20px 0 0;
+}
 
 
 .someEmptyRoom{
