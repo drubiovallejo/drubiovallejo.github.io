@@ -98,6 +98,11 @@ ul{
   margin-right: 13%;
 }
 
+div {
+  white-space: nowrap;
+  overflow: hidden;
+}
+
 .column{
     float: left;
     margin-top: -1%;
